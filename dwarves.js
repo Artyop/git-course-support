@@ -37,13 +37,5 @@ module.exports = [{
         intellect: 6,
         strength: 54,
         health: 236
-    },
-    {
-        name: "knaki",
-        race: "Dwarf",
-        agility: 55,
-        intellect: 4,
-        strength: 52,
-        health: 248
     }
 ];
