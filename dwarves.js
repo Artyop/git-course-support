@@ -31,14 +31,6 @@ module.exports = [{
         health: 196
     },
     {
-        name: "krober",
-        race: "Dwarf",
-        agility: 32,
-        intellect: 6,
-        strength: 54,
-        health: 236
-    },
-    {
         name: "knaki",
         race: "Dwarf",
         agility: 55,
